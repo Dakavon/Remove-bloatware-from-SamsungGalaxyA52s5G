@@ -15,6 +15,9 @@
 #   pm disable ....
 #
 # When your device is not working anymore you can reset it to the factory state and start over..
+# ..or get back only Galaxy Store (open shell first):  cmd package install-existing com.sec.android.app.samsungapps
+# ..or get back only Galaxy Themes (open shell first): cmd package install-existing com.samsung.android.themestore / 
+#                                                      cmd package install-existing com.samsung.android.themecenter
 
 
 #Remove Facebook services
